@@ -3,4 +3,4 @@
 - src: dev-sec.os-hardening
 - src: dev-sec.ssh-hardening
 - src: ypid.vnstat
-- src: nusenu.relayor
+- src: https://github.com/nusenu/ansible-relayor.git
