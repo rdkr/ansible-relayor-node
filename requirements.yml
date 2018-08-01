@@ -1,6 +1,4 @@
-- src: holms.fqdn
-- src: jnv.unattended-upgrades
 - src: dev-sec.os-hardening
 - src: dev-sec.ssh-hardening
-- src: ypid.vnstat
 - src: nusenu.relayor
+  version: v0.4.0
